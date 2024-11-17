@@ -3,6 +3,7 @@ msgstr ""
 "POT-Creation-Date: 1998-11-16 02:53+0100\n"
 "PO-Revision-Date: 1998-12-07 17:22+0200\n"
 "Last-Translator: Alonso Lara <jlaram@nexo.es>\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
 "First-Translator: Alonso Lara <jlaram@nexo.es>\n"
 
 #: kmoon.cpp:111
