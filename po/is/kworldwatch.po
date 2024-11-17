@@ -6,6 +6,7 @@ msgid ""
 msgstr ""
 "POT-Creation-Date: 1998-11-16 02:53+0100\n"
 "Last-Translator: Bjarni R. Einarsson <bre@mmedia.is>\n"
+"Content-Type: text/plain; charset=ISO-8859-1\n"
 "Language-Team: is\n"
 
 #: main.cpp:20
